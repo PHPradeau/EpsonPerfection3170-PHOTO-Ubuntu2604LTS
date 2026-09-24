@@ -3,6 +3,9 @@ DEB for thoose who need a driver.
 
 Epson Perfection 3170 (GT-9400) driver for 64-bit Ubuntu
 
+Epson stopped releasing driver for this old model, but that's one on the only who can scan 35mm films for ex.
+=> It's important to save this working tech who is not replaced.
+
 A `.deb` package that makes the **Epson Perfection 3170 Photo** scanner
 (USB ID `04b8:0116`, internal name **GT-9400**) work on modern 64-bit Ubuntu
 (built and verified on Ubuntu 26.04 "resolute").
